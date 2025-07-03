@@ -1,4 +1,4 @@
-# geofs-gpws-modified
+# geofs-gpws-modified (for use in my [all in one addon](https://github.com/geofs-pilot/GeoFS-All-in-one-Addon/tree/main) ) 
 geofs gpws by ggamergguy (tylerbmusic) but with several changes: <br/>
 -array of aircraft for GPWS to eliminate having to turn it on and off <br/>
 -hide baro minimums field when flight recorder playing <br/>
